@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- phpMyAdmin XML Dump Modificat pel Taller XML
+- version 4.2.9.1
+- http://www.phpmyadmin.net
+-
+- Host: localhost
+- Generation Time: 16-11-2014 a les 17:25:43
+- Versió del servidor: 5.5.8
+- PHP Version: 5.3.5
+-->
+
+<taller_xml>
+<calendari_acb2>
+<jornada>4</jornada>
+<data>26/10/14</data>
+<equip_local>La Bruixa d'Or Manresa </equip_local>
+<equip_visitant> MoraBanc Andorra </equip_visitant>
+<punts_local>88</punts_local>
+<punts_visitant>80</punts_visitant>
+<redactor>name,firstname</redactor>
+</calendari_acb2>
+<calendari_acb2>
+<jornada>4</jornada>
+<data>26/10/14</data>
+<equip_local>Herbalife Gran Canaria </equip_local>
+<equip_visitant> Unicaja </equip_visitant>
+<punts_local>67</punts_local>
+<punts_visitant>74</punts_visitant>
+<redactor>name,firstname</redactor>
+</calendari_acb2>
+<calendari_acb2>
+<jornada>4</jornada>
+<data>26/10/14</data>
+<equip_local>Gipuzkoa Basket </equip_local>
+<equip_visitant> FC Barcelona </equip_visitant>
+<punts_local>43</punts_local>
+<punts_visitant>57</punts_visitant>
+<redactor>name,firstname</redactor>
+</calendari_acb2>
+<calendari_acb2>
+<jornada>4</jornada>
+<data>26/10/14</data>
+<equip_local>FIATC Joventut </equip_local>
+<equip_visitant> Rio Natura Monbus Obradoiro </equip_visitant>
+<punts_local>72</punts_local>
+<punts_visitant>78</punts_visitant>
+<redactor>name,firstname</redactor>
+</calendari_acb2>
+<calendari_acb2>
+<jornada>4</jornada>
+<data>26/10/14</data>
+<equip_local>Iberostar Tenerife </equip_local>
+<equip_visitant> Real Madrid </equip_visitant>
+<punts_local>82</punts_local>
+<punts_visitant>93</punts_visitant>
+<redactor>name,firstname</redactor>
+</calendari_acb2>
+<calendari_acb2>
+<jornada>4</jornada>
+<data>26/10/14</data>
+<equip_local>Valencia Basket Club </equip_local>
+<equip_visitant> Tuenti Móvil Estudiantes </equip_visitant>
+<punts_local>84</punts_local>
+<punts_visitant>67</punts_visitant>
+<redactor>name,firstname</redactor>
+</calendari_acb2>
+<calendari_acb2>
+<jornada>4</jornada>
+<data>26/10/14</data>
+<equip_local>Montakit Fuenlabrada </equip_local>
+<equip_visitant> CAI Zaragoza </equip_visitant>
+<punts_local>67</punts_local>
+<punts_visitant>69</punts_visitant>
+<redactor>name,firstname</redactor>
+</calendari_acb2>
+<calendari_acb2>
+<jornada>4</jornada>
+<data>26/10/14</data>
+<equip_local>UCAM Murcia CB </equip_local>
+<equip_visitant> Baloncesto Sevilla </equip_visitant>
+<punts_local>98</punts_local>
+<punts_visitant>68</punts_visitant>
+<redactor>name,firstname</redactor>
+</calendari_acb2>
+<calendari_acb2>
+<jornada>4</jornada>
+<data>26/10/14</data>
+<equip_local>Laboral Kutxa Baskonia </equip_local>
+<equip_visitant> Bilbao Basket </equip_visitant>
+<punts_local>86</punts_local>
+<punts_visitant>74</punts_visitant>
+<redactor>name,firstname</redactor>
+</calendari_acb2>
+</taller_xml>
