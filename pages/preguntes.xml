@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="plantilla.xsl"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+	<xsl:template match="/">
+
+				<xsl:for-each select="preguntes/pregunta">				
+					<table cellspacing="10" cellpadding="0" border="0" width="345" height="100">
+						<tr>
+						  <td class="datojug"> <xsl:value-of select="enunciat"/> </td>
+						  </tr>
+						  <tr>
+							<td colspan="3" align="center" >
+								<img width="105" height="126" alt="" style="border:1px solid black;" >
+								    <xsl:attribute name="src">
+										<xsl:value-of select="foto" />
+									</xsl:attribute> 
+								</img>
+							</td>
+							</tr>
+							</table>
+									</xsl:for-each>
+		
+	</xsl:template>
+</xsl:stylesheet> 
